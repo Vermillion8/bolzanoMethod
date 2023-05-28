@@ -27,6 +27,10 @@ You can install matplotlib using the following command:
 pip install matplotlib
 ```
 
+## **Screenshots**
+![Screenshot 1](https://github.com/Vermillion8/image-dump/blob/main/Bolzano%20Method/Code_dn4az9ZmGH.png?raw=true)
+![Screenshot 2](https://github.com/Vermillion8/image-dump/blob/main/Bolzano%20Method/python_I62jWUSIWZ.png?raw=true)
+
 ## **References**
 + Graph Plotting in Python: https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
 + Bisection Method Python Program: https://www.codesansar.com/numerical-methods/bisection-method-python-program.htm
